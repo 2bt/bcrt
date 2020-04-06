@@ -1,4 +1,5 @@
-#include <cstdio> // houndify > out.ppm
+#include <cstdlib> // houndify > out.ppm
+#include <cstdio>
 #include <cmath>
 #define R return
 #define O operator
