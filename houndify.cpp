@@ -13,8 +13,8 @@ y=b;z=c;}F x,z,y;V(F v=0){x=y=z=v;}}o;F I(F a,F b=0){R a<b?a:b;}F S(){R(F)rand()
 :-1))<53.5?.2:.3:.07;f=L({I(f,-1)-f,I(-p.z-4)+p.z+4})-1;g=I(-p.z,p.z+250);R{I(g,
 f),g<f?.8f:m};}int main(){V b=Z({-3,-1,7}),l=Z({b.z,0,-b.x})*.001,u(b.y*l.z-b.z*
 l.y,b.z*l.x-b.x*l.z,b.x*l.y-b.y*l.x),c,d,m,s;for(puts("P6 960 720 255");y--;)for
-(x=960;x--;o=c+1,c=V(c.x/o.x,c.y/o.y,c.z/o.z)*255 P.x)P.y)P.z))for(c=n=0;a=99<++
-n;c=c+(d.z<-.8?V(9,6,3):d.y>.3?V(3,4,6):0)*a*E)for(o={74,26,-170},d=Z(b+l*(S()-x
-+480)+u*(y-360+S())),i=4;--i;){for(s=1,j=30;--j&&s.x>E;)s=M(o=o+d*s.x);if(3e4>o%
-o){for(a*=s.y,j=6;--j&&d%d>.5;)d={S(),S(),S()};m=Z(V(M(o+V(E,0)).x,M(o+V(0,E)).x
-,M(o+V(0,0,E)).x)+-s.x),d=Z(m%d<0?d*-1:d),o=o+m*E;}}}// Daniel Langner
+(x=960;x--;o=c+99,c=V(c.x/o.x,c.y/o.y,c.z/o.z)*255 P.x)P.y)P.z))for(c=n=0;a=99>n
+++;c=c+(d.z<-.8?V(9,6,3):d.y>.3?V(3,4,6):0)*a)for(o={74,26,-170},d=Z(b+l*(S()-x+
+480)+u*(y-360+S())),i=4;--i;){for(s=1,j=30;--j&&s.x>E;)s=M(o=o+d*s.x);if(3e4>o%o
+){for(a*=s.y,j=6;--j&&d%d>.5;)d={S(),S(),S()};m=Z(V(M(o+V(E,0)).x,M(o+V(0,E)).x,
+M(o+V(0,0,E)).x)+-s.x),d=Z(m%d<0?d*-1:d),o=o+m*E;}}}// Daniel Langner
