@@ -17,4 +17,4 @@ p.x,p.y+I(0,-I(p.y,18))})-9,-I(2-A(l-15),-p.y)),-I(2-A(p.x),5-A(p.y+20))),-I(8-A
 a=99>n++;c=c+(d.z<-.8?V(9,6,3):d.y>.3?V(3,4,6):0)*a)for(o={74,26,-170},d=Z(b+l*(
 S-x+480)+u*(y-360+S)),i=4;--i;){for(s=1,j=30;--j&&s.x>E;)s=M(o=o+d*s.x);if(3e4>o
 %o){for(a*=s.y,j=6;--j&&d%d>.5;)d={S,S,S};m=Z(V(M(o+V(E,0)).x,M(o+V(0,E)).x,M(o+
-V(0,0,E)).x)+-s.x),d=Z(m%d<0?d*-1:d),o=o+m*E;}}}// Daniel Langner
+V(0,0,E)).x)+-s.x),d=Z(m%d<0?d*-1:d),o=o+m*E;}}}
