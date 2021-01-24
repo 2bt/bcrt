@@ -1,5 +1,5 @@
-#include<cstdlib>// houndify > out.ppm
-#include<cstdio>
+#include<cstdlib> // g++ -Ofast houndify.cpp -o houndify
+#include<cstdio>  // ./houndify > houndify.ppm
 #include<cmath>
 #define R return
 #define O(o)operator o(V r){R
