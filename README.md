@@ -3,13 +3,13 @@
 This little program renders SoundHound's Houndify logo.
 
 ```c++
-#include<cstdlib> // g++ -Ofast houndify.cpp -o houndify
-#include<cstdio>  // ./houndify > houndify.ppm
-#include<cmath>
+#include<cmath>  // g++ -Ofast houndify.cpp -o houndify
+#include<cstdio> // ./houndify > houndify.ppm
+#include<cstdlib>
 #define R return
 #define O(o)operator o(V r){R
-#define P(x)putchar(c.x*263/(c.x+99))
 #define S (F)rand()/RAND_MAX-.5
+#define P(x)putchar(c.x*263/(c.x+99))
 using F=double;F(*A)(F)=fabs,E=.01,x,y=720,a,n,i,j;struct V{F x,z,y,O(%)x*r.x+y*
 r.y+z*r.z;}V O(+){x+r.x,y+r.y,z+r.z};}V O(*){x*r.x,y*r.y,z*r.z};}V(F a,F b,F c=0
 ){x=a;y=b;z=c;}V(F v=0){x=y=z=v;}}o;F I(F a,F b){R a<b?a:b;}F L(V v){R sqrt(v%v)
