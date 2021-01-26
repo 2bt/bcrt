@@ -1,6 +1,6 @@
 # Business Card Raytracer
 
-This little program renders SoundHound's Houndify logo.
+This little program renders [SoundHound's](https://www.soundhound.com/) Houndify logo.
 
 ```c++
 #include<cmath>  // g++ -Ofast houndify.cpp -o houndify
